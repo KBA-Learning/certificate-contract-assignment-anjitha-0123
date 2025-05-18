@@ -1,6 +1,13 @@
 # certificate-contract-assignment-anjitha-0123
 certificate-contract-assignment-anjitha-0123 created by GitHub Classroom
 
+
+## Link of verified contract
+```
+https://sepolia.etherscan.io/verifyContract-solc?a=0xaf33a2618ac98e26011795d569a0d1706e18b439&c=v0.8.30%2bcommit.73712a01&lictype=3
+```
+
+
 ## Smart Contract
 ```
 // SPDX-License-Identifier: MIT
@@ -45,9 +52,4 @@ contract CertiApp{
     
 }
 
-```
-
-## Link of verified contract
-```
-https://sepolia.etherscan.io/verifyContract-solc?a=0xaf33a2618ac98e26011795d569a0d1706e18b439&c=v0.8.30%2bcommit.73712a01&lictype=3
 ```
