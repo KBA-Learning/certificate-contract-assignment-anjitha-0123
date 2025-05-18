@@ -47,11 +47,6 @@ contract CertiApp{
 
 ```
 
-## Link for Verify and Publish
-
-```
-https://sepolia.etherscan.io/verifyContract-solc?a=0xaf33a2618ac98e26011795d569a0d1706e18b439&c=v0.8.30%2bcommit.73712a01&lictype=3
-```
 ## Link of verified contract
 ```
 https://sepolia.etherscan.io/verifyContract-solc?a=0xaf33a2618ac98e26011795d569a0d1706e18b439&c=v0.8.30%2bcommit.73712a01&lictype=3
